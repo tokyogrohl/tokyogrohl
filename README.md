@@ -1,6 +1,7 @@
 <h1>Hello, I'm Isabellé ☘</h1>
 Welcome to my code diary, here you'll find a various projects I have started out of boredom and I daren't say how many I've completed
-<br>
+
+
 - 🌱 I’m currently learning UI/UX designing and ReactJS
 - 📫 Don't be hesitate to reach me on <a href="https://twitter.com/tokyogrohl">twitter</a> or <a href = "mailto: isabellapm75@gmail.com">email</a>
 <!---
